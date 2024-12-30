@@ -28,7 +28,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O AluraPlay oferece uma interface amigável para que os usuários possam navegar por uma variedade de vídeos, com recursos que facilitam a busca e a visualização de conteúdos.
 
-- [Acesse o deploy](https://seu-link-deploy.com)
+- [Acesse o deploy](https://aluraplay-snowy-pi.vercel.app/)
 
 ## 🤝 Contribuições
 
@@ -40,4 +40,4 @@ Esse projeto está sob a licença MIT.
 
 ---
 
-Feito com ♥ por [Thalita Noemi](https://www.linkedin.com/in/seu-nome/) :wave:
+Feito com ♥ por [Thalita Noemi](https://www.linkedin.com/in/thalita-noemi/) :wave:
